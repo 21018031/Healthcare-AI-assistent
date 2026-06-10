@@ -1,0 +1,196 @@
+# Healthcare Guide: Common Medical Conditions
+
+## Hypertension (High Blood Pressure)
+
+### Overview
+Hypertension is a condition where blood pressure is 130/80 mm Hg or higher on multiple readings. It's often called the "silent killer" because many people have it without knowing.
+
+### Risk Factors
+- Age (risk increases with age)
+- Family history of hypertension
+- Obesity or being overweight
+- Lack of physical activity
+- High sodium diet
+- Excessive alcohol consumption
+- Stress
+- Smoking
+
+### Symptoms
+Many people with hypertension have no symptoms. When symptoms occur, they may include:
+- Headaches (especially back of head)
+- Shortness of breath
+- Nosebleeds
+- Chest discomfort
+- Vision problems
+- Blood in urine
+
+### Diagnosis
+Blood pressure is measured in millimeters of mercury (mm Hg) with two numbers:
+- Systolic pressure (top number): pressure when heart beats
+- Diastolic pressure (bottom number): pressure when heart rests
+- Normal: less than 120/80 mm Hg
+- Elevated: 120-129/<80 mm Hg
+- Stage 1 hypertension: 130-139/80-89 mm Hg
+- Stage 2 hypertension: 140 or higher/90 or higher mm Hg
+
+### Treatment Options
+1. Lifestyle Modifications:
+   - Reduce sodium intake to less than 2,300 mg per day
+   - Maintain healthy weight (BMI 18.5-24.9)
+   - Exercise 150 minutes per week at moderate intensity
+   - Limit alcohol consumption
+   - Manage stress through meditation or yoga
+   - Quit smoking
+   - Increase potassium-rich foods
+
+2. Medications:
+   - ACE inhibitors (e.g., lisinopril, enalapril)
+   - Angiotensin II receptor blockers (ARBs)
+   - Beta-blockers
+   - Calcium channel blockers
+   - Diuretics
+   - Combination medications
+
+### Complications
+- Heart disease
+- Stroke
+- Kidney disease
+- Vision loss
+- Metabolic syndrome
+- Heart failure
+
+### Prevention
+- Maintain healthy weight
+- Exercise regularly
+- Eat heart-healthy diet
+- Limit sodium
+- Reduce stress
+- Limit alcohol
+- Monitor blood pressure regularly
+
+
+## Type 2 Diabetes
+
+### Overview
+Type 2 diabetes is a chronic condition where the body cannot effectively use insulin (insulin resistance) or doesn't produce enough insulin. It accounts for 90-95% of all diabetes cases.
+
+### Risk Factors
+- Obesity or being overweight
+- Age 45 or older
+- Family history of diabetes
+- Physical inactivity
+- Prediabetes
+- History of gestational diabetes
+- Polycystic ovary syndrome (PCOS)
+- Certain ethnic backgrounds (Hispanic, African American, Native American, Asian American, Pacific Islander)
+
+### Symptoms
+- Increased thirst
+- Frequent urination (especially at night)
+- Increased hunger
+- Fatigue or tiredness
+- Blurred vision
+- Cuts or sores that heal slowly
+- Tingling or numbness in hands or feet
+- Unexplained weight loss
+
+### Diagnosis
+- Fasting blood glucose test: 126 mg/dL or higher = diabetes
+- Oral glucose tolerance test: 200 mg/dL or higher = diabetes
+- Random blood glucose test: 200 mg/dL or higher with symptoms = diabetes
+- Hemoglobin A1C (HbA1C) test: 6.5% or higher = diabetes
+
+### Treatment Options
+1. Lifestyle Management:
+   - Weight loss (5-10% of body weight)
+   - Balanced diet with whole grains, lean proteins, fruits, vegetables
+   - Regular physical activity (150 minutes per week)
+   - Monitor blood glucose levels
+   - Manage stress
+   - Get adequate sleep
+
+2. Medications:
+   - Metformin (first-line medication)
+   - Sulfonylureas
+   - Meglitinides
+   - DPP-4 inhibitors
+   - GLP-1 receptor agonists
+   - SGLT2 inhibitors
+   - Thiazolidinediones
+   - Insulin therapy (in advanced cases)
+
+### Complications
+- Heart disease and stroke
+- Kidney disease
+- Vision problems and blindness
+- Nerve damage (neuropathy)
+- Foot problems and amputations
+- Dental disease
+- Cognitive decline
+
+### Prevention
+- Maintain healthy weight
+- Exercise regularly
+- Eat healthy diet
+- Don't smoke
+- Monitor blood glucose if prediabetic
+
+
+## Heart Disease
+
+### Overview
+Heart disease encompasses various conditions affecting the heart, including coronary artery disease, heart attack, heart failure, and arrhythmias.
+
+### Risk Factors
+- Age (men 45+, women 55+)
+- Gender (men at higher risk)
+- Family history
+- Smoking
+- High blood pressure
+- High cholesterol
+- Diabetes
+- Obesity
+- Physical inactivity
+- Stress
+- Poor diet
+
+### Symptoms
+- Chest pain or pressure
+- Shortness of breath
+- Pain in arm, jaw, neck, or back
+- Indigestion or heartburn
+- Palpitations
+- Weakness or fatigue
+- Dizziness or lightheadedness
+
+### Diagnosis
+- Physical examination and medical history
+- Electrocardiogram (EKG)
+- Stress test
+- Coronary angiography
+- CT or MRI imaging
+- Echocardiogram
+- Blood tests
+
+### Treatment Options
+1. Lifestyle Changes:
+   - Heart-healthy diet (Mediterranean diet)
+   - Regular exercise
+   - Weight management
+   - Stress management
+   - Smoking cessation
+   - Limit alcohol
+
+2. Medications:
+   - Aspirin
+   - Beta-blockers
+   - ACE inhibitors
+   - Statins
+   - Nitrates
+   - Anticoagulants
+
+3. Procedures:
+   - Angioplasty and stent placement
+   - Bypass surgery
+   - Pacemaker implantation
+   - Heart transplant (in severe cases)
